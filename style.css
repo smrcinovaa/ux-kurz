@@ -1,0 +1,24 @@
+h1 {
+  background-color: bisque;
+  border: 2px;
+  color: darkslategrey;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+p {
+  font-style: normal;
+  font-size: small;
+}
+h2 {
+  text-decoration: underline;
+  font-weight: 200;
+  color: rgb(2, 12, 39);
+  background-color: darksalmon;
+}
+
+strong {
+  text-shadow: 4px;
+}
+em {
+  text-align: center;
+}
